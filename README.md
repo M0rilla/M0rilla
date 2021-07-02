@@ -12,7 +12,7 @@ HTML5 • CSS3 • SASS • Javascript • Bootstrap • ReactJS (learning)
 **Back end skills**:<br/>
 .Net MVC • C#
 
-**"The greatest act of kindness is to be able to somehow improve people's lives".** 👩‍💻
+**"The greatest act of kindness is to be able to somehow improve people's lives".** 
 
 <a href="https://github.com/M0rilla/github-readme-stats">
   <img height="156" align="center" src="https://github-readme-stats.vercel.app/api?username=M0rilla&count_private=true&show_icons=true&custom_title=Gustavo's%20Github%20Stats&hide=issues&theme=vision-friendly-dark" />
