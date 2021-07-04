@@ -3,11 +3,11 @@
 I'm a MES analyst (Manufacturing Execution System), who is always looking for knowledge and with great dedication and engagement.
 Currently working at **@Hyundai AutoEver** :blue_heart:
 
-- :books: I’m currently learning React with Rocketseat Ignite - career acceleration program.
+- :books: I’m learning React with Rocketseat Ignite - Career acceleration program.
 <br/>• :computer: Enthusiast about the best **web development** technologies
 
 **Front end skills**:</br>
-HTML5 • CSS3 • SASS • Javascript • Bootstrap • ReactJS (learning)
+HTML5 • CSS & SASS • Javascript • JQuery • Bootstrap • ReactJS (learning)
 
 **Back end skills**:<br/>
 .Net MVC • C#
