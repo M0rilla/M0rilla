@@ -3,14 +3,16 @@
 I'm a MES analyst (Manufacturing Execution System), who is always looking for knowledge and with great dedication and engagement.
 <!--- Currently working at **@SOON** :blue_heart: --->
 
-- :books: I’m learning React with Rocketseat Ignite - Career acceleration program.
-<br/>• :computer: Enthusiast about the best **web development** technologies
+• :computer: Enthusiast about the best **web development** technologies
 
 **Front end skills**:</br>
 HTML5 • CSS & SASS • Javascript • JQuery • Bootstrap • ReactJS (learning)
 
 **Back end skills**:<br/>
 .Net MVC • C#
+
+**:books: Techs I'm studying**<br/>
+WebSocket • WebServices SOAP & REST • Interfaces • Microsservices  
 
 **"The greatest act of kindness is to be able to somehow improve people's lives".** 
 
