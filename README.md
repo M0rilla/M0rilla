@@ -1,7 +1,7 @@
 ## Hi there! Welcome :)
 
 I'm a MES analyst (Manufacturing Execution System), who is always looking for knowledge and with great dedication and engagement.
-Currently working at **@Hyundai AutoEver** :blue_heart:
+<!--- Currently working at **@SOON** :blue_heart: --->
 
 - :books: I’m learning React with Rocketseat Ignite - Career acceleration program.
 <br/>• :computer: Enthusiast about the best **web development** technologies
